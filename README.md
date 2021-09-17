@@ -9,6 +9,11 @@
 
 [D130特刊*下](https://github.com/TsaiZinan/Athens-Monitor/blob/main/D130%E7%89%B9%E5%88%8A%E4%B8%8B.md)
 
+[D137特刊*上](https://github.com/TsaiZinan/Athens-Monitor/blob/main/D137%E7%89%B9%E5%88%8A%E4%B8%8A.md)
+
+[D137特刊*下](https://github.com/TsaiZinan/Athens-Monitor/blob/main/D137%E7%89%B9%E5%88%8A%E4%B8%8B.md)
+
+
 ## Progress:
 
 - [x] 第一期
