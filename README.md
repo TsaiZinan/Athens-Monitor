@@ -13,6 +13,7 @@
 
 [D137特刊*下](https://github.com/TsaiZinan/Athens-Monitor/blob/main/D137%E7%89%B9%E5%88%8A%E4%B8%8B.md)
 
+[D145特刊](https://github.com/TsaiZinan/Athens-Monitor/blob/main/D145%E7%89%B9%E5%88%8A.md)
 
 ## Progress:
 
