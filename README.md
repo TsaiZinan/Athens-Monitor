@@ -18,6 +18,8 @@
 
 [D173](https://github.com/TsaiZinan/Athens-Monitor/blob/main/D173.md)
 
+[D174](https://github.com/TsaiZinan/Athens-Monitor/blob/main/D174.md)
+
 ## Progress:
 
 - [x] 第一期
@@ -29,7 +31,7 @@
 - [x] D145特刊
 - [x] D156特刊
 - [x] D173
-- [ ] D174
+- [x] D174
 - [ ] D175
 - [ ] D176
 - [ ] D177
